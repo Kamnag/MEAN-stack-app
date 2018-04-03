@@ -1,5 +1,4 @@
-# mean-angular2-registration-login-example
+# mean stack login
 
-MEAN Stack with Angular 2 - User Registration and Login Example & Tutorial
+MEAN Stack  - User Registration and Login 
 
-For details and documentation go to http://jasonwatmore.com/post/2017/02/22/mean-with-angular-2-user-registration-and-login-example-tutorial
